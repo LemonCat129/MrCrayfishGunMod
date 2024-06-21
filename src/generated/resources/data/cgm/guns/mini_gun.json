@@ -16,7 +16,7 @@
     "spread": 7.0
   },
   "projectile": {
-    "damage": 5.0,
+    "damage": 6.0,
     "item": "cgm:basic_bullet",
     "life": 30,
     "size": 0.2,
